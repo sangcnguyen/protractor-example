@@ -5,7 +5,7 @@
   "author": {
     "name": "Sang Nguyen"
   },
-  "license": "MIT",
+  "license": "ISC",
   "scripts": {
     "debug": "node --inspect --debug-brk ./node_modules/.bin/protractor tmp/protractor.conf.js",
     "tsc": "tsc",
