@@ -18,7 +18,7 @@
     "@types/node": "~6.0.60",
     "jasmine": "^2.6.2",
     "jasmine-spec-reporter": "^4.1.0",
-    "protractor": "^5.1.2",
+    "protractor": "^7.0.0",
     "typescript": "~2.4.0"
   },
   "devDependencies": {
